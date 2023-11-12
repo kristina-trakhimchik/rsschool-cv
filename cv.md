@@ -51,3 +51,8 @@ console.log(test(3,4));
 [CV](https://github.com/kristina-trakhimchik/rsschool-cv)
 -----------
  ## Languages
+
+* Russian - native
+* Belarusian - native
+* English - B1
+
