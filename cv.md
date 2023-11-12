@@ -29,9 +29,25 @@ I am just starting to study in the direction of Front-End (HTML, CSS and JavaScr
 
 -----------------
 ## Code Example
+
+```
+function test(g, h) {
+    return g * h > 10;
+}
+console.log(test(3,4));
+```
 --------
 ## Education and courses
+
+* **University:** Yanka Kupala State University of Grodno, Faculty of Economics and Management:
+    + **Specialty:** Information systems and technologies (in economics) - _software engineer-economist_ - Specialist Degree;
+    + **Specialty:** Applied computer data analysis - Master Degree;
+* RS Schools Course «JavaScript/Front-end. Stage 0».
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress).
+
  ---------
 ## Projects
+
+[CV](https://github.com/kristina-trakhimchik/rsschool-cv)
 -----------
  ## Languages
