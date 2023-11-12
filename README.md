@@ -1,2 +1,2 @@
 # rsschool-cv
-This is my CV
+https://kristina-trakhimchik.github.io/rsschool-cv/cv
