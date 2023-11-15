@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+.wrapper-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    min-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    margin: 0 auto;
+    padding: 0;
+}
+.container {
+    flex: 1;
+    padding: 0 2rem;
+    color: var(--text-color);
+    overflow: auto;
+}
+.photo img {
+    width: 200px;
+    margin: 3rem;
+    border: 1px solid white;
+}
