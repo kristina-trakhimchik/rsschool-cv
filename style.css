@@ -3,7 +3,6 @@
 *::after {
     box-sizing: border-box;
 }
-
 .wrapper-body {
     display: flex;
     flex-direction: row;
@@ -18,14 +17,12 @@
     margin: 0 auto;
     padding: 0;
 }
-
 .container {
     flex: 1;
     padding: 0 2rem;
     color: var(--text-color);
     overflow: auto;
 }
-
 .photo img {
     width: 200px;
     margin: 3rem;
